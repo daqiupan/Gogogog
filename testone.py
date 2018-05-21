@@ -1,3 +1,3 @@
 a="daqiu"
-a={"daqiushushu"}
+a={"daqiushu"}
 print(a)
